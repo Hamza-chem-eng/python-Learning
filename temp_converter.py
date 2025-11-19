@@ -1,0 +1,46 @@
+x  = float(input("input the Celsius degree : "))
+f = (9/5)*x+32
+print("the temp in f is" , f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
